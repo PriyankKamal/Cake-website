@@ -1,0 +1,53 @@
+.click_container{
+    margin: 52px;
+}
+
+.click_img img{
+    width: 100%;
+    height: 500px;
+    /* border-radius: 120px; */
+    border: 3px solid rgb(5, 130, 130);
+    /* background-color: rgb(21, 116, 116); */
+}
+
+.span_radio{
+    font-size: 23px;
+
+   font-family: cursive;
+}
+
+.f_price{
+    font-size: 40px;
+}
+
+
+
+
+  
+
+
+.btn button{
+    color: aliceblue;
+    background-color:rgb(10, 56, 139);
+    margin: 5px;
+    width: 11rem;
+    height: 45px;
+    font-size: 25px;
+    border-radius: 5px;
+    border:2px solid rgb(67, 83, 188);
+    font-weight: bold;
+}
+
+.btn button:hover{
+    /* border:3px solid rgb(36, 60, 216) ; */
+    background-color:rgb(9, 28, 123) ;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+}
+
+.cake_heading{
+    color:rgb(228, 8, 45);
+}
